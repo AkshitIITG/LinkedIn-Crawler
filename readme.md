@@ -57,8 +57,8 @@ driver = webdriver.Chrome('C:/Users/akshit/Desktop/chromedriver')      [Windows]
     
     - You can run alumni_yearwise_linkedIn.py on your local Computer.
     - Please Wait for a moment as the program runs.
-    - Then, input the Institute Name. All data relating to the The Alumni of the Institute would be Scraped.
+    - Then, input the Institute Name. All data relating to the alumni of the Institute would be Scraped.
     - Alumni Data would be exported into a csv file(which can be renamed in parameters.py).
     - Please refer to output.csv for sample output File. Input: Institute Name for Sample File: "massachusetts institute of technology" 
-    - Using Microsoft Power BI, the Excel data(from output.csv) was manually Loaded to teh dashboard to create the Final Report(Alumni_Report_MIT_2000.pdf)
+    - Using Microsoft Power BI, the Excel data(from output.csv) was manually Loaded to the dashboard to create the Final Report(Alumni_Report_MIT_2000.pdf)
 </details>
